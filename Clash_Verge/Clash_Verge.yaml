@@ -549,6 +549,7 @@ rules:
   - DOMAIN-SUFFIX,msn.cn,节点选择
   - DOMAIN-SUFFIX,live.com,节点选择
   - RULE-SET,Nvidia,美国
+  - RULE-SET,Instagram,家宽
   - RULE-SET,GoogleFCM,DIRECT
   - RULE-SET,GameDownloadCN,DIRECT
   - RULE-SET,SteamCN,DIRECT
@@ -575,7 +576,6 @@ rules:
   - RULE-SET,TikTok,TikTok
   - RULE-SET,BiliBili,BiliBili
   - RULE-SET,Emby,香港
-  - RULE-SET,Instagram,家宽
   - RULE-SET,ProxyLite,节点选择
   - RULE-SET,ChinaIP,国内
   - RULE-SET,ChinaASN,国内
